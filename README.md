@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://visitor-badge.laobi.icu/badge?page_id=Tyrone2333_github)
 <!--
 **Tyrone2333/Tyrone2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
